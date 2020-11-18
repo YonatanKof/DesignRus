@@ -1,0 +1,69 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "AD4D4954-5D9C-4BA4-BB87-0F044B86362D",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "46480fc1-29d6-11eb-804b-337d43eef908",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "F9173E19-78D3-468D-B921-285B3E0E3387",
+      "fontFamilyName": "Permanent Marker",
+      "fontFileName": "PermanentMarker-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "PermanentMarker-Regular"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "69742AEF-2BCD-11EB-804B-387F43CF8065",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "7F782EEF-2BCD-11EB-804B-387F43CF8E69",
+    "objects": [
+    ]
+  }
+}
